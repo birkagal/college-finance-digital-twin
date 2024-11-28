@@ -7,7 +7,6 @@ Developed a full stack application from scratch with five other team members in 
 The main component we developed was the server, which was written using `Spring Boot Framework.` 
 The data is maintained using `MySQL`.
 We also made a small and simple client side with `HTML` and `Javascript` that communicate with the server.
-The server is hosted on `Heroku` and can be accessed using this link: https://integrative-demo.herokuapp.com/
 
 The first step of the process was writing the Requirment document. That document was the guiding hand during developing stage.
 
